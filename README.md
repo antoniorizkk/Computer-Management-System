@@ -1,2 +1,2 @@
 # Computer-Management-System
-JAVA, console application
+Computer Management System Project This project involved the creation of a robust computer management system developed in Java. It features comprehensive CRUD operations, allowing users to create, read, update, and delete records efficiently. The system leverages file handling in Java for persistent data storage, ensuring data integrity and accessibility. This project demonstrates my proficiency in Java programming and my understanding of fundamental software development concepts.
