@@ -1,0 +1,5 @@
+41 hp 440 hp hp hp hp hp hp hp 3
+42 lenovo 450 lenovo lenovo lenovo lenovo lenovo lenovo lenovo 7
+43 lg 420 lg lg lg lg lg lg lg 6
+44 toshiba 430 toshiba toshiba toshiba toshiba toshiba toshiba toshiba 5
+45 dell 500 dell dell dell dell dell dell dell 2

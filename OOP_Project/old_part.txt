@@ -1,0 +1,6 @@
+64 lg 1000 amd  16 250 lg lg 1 1 good
+63 lg 1250 amd  16 250 lg lg 1 1 good
+69 samsung 1100 amd  16 250 lg lg 1 1 excellent
+68 acer 650 amd  8 250 lg lg 1 1 good
+66 asus 250 amd  4 250 lg lg 1 1 average
+2 dell 0 nvidia  16 1000 dell dell 1 1 excellent

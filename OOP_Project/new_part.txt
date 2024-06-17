@@ -1,0 +1,5 @@
+26 acer 1000 nvidia 16 1000 dell jbl 3 3 
+27 asus 500 amd 6 250 lg lg 5 7 
+28 hp 750 intel 8 1000 samsung bose 3 2 
+30 lenovo 600 nvidia 16 1500 hp razer 20 1 
+30 alienware 600 nvidia 16 1500 hp razer 10 1 

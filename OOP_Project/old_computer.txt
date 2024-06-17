@@ -1,0 +1,6 @@
+31 hp 2300 15 1240 16 2000 WS10 computer 5 11 good
+32 samsung 1000 17 1000 8 1000 WS10 computer 6 5 average
+33 razer 1300 15 1240 16 1500 WS10 laptop 7 7 excellent
+34 asus 700 13 720 8 500 WS10 laptop 2 11 good
+67 hp 1000 15 1240 16 ws10  2 1 excellent
+2 hp 0 15 500 16 ws10  5 1 average

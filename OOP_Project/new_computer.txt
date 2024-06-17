@@ -1,0 +1,7 @@
+5 hp 1250 15 720 16 1000 ws10 laptop 3 1
+7 lg 1000 15 720 16 1000 ws10 laptop 3 2
+6 samsung 1000 1000 16 1000 ws10 laptop 3 1
+2 acer 1100 1200 16 1000 ws10 laptop 3 1
+8 asus 700 500 16 1000 ws10 laptop 3 1
+
+
